@@ -42,3 +42,7 @@ This is a C-based desktop application with a main menu and a stock management mo
 ---
 
 For questions about build commands, module integration, or project structure, refer to this file or ask for clarification.
+
+
+## Subheader added by different folder
+Hi this is added by a different file cloned from github using Github desktop 
